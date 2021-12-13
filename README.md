@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sougata2
+- 👋 Hi, I’m SOUGATA DAS
 - 👀 I’m interested in Java , OOP , Web Development.
 - 🌱 I’m currently learning Java (advanced) , Web Development.
 - 💞️ I’m looking to collaborate on ...
