@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SOUGATA DAS
 - 👀 I’m interested in Python , OOP , Web Development.
-- 🌱 I’m currently learning python (advanced) , Web Development.
+- 🌱 I’m Google Cloud Certified Associate Cloud Engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sougata19582001@gmail.com
 
